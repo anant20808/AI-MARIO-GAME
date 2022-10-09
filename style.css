@@ -1,0 +1,43 @@
+.heading{
+    width: 100%;
+    
+    float:left;
+}
+.title{
+    display:inline;
+    float: left;
+}
+.button1{
+    float:right;
+    border-width: 5px ;
+    border-style: solid;
+    border-color: aliceblue;
+}
+.marioimg{
+    width:100%;
+}
+.start{
+    font-size: 25px;
+}
+h4{
+    background-color:blue;
+    color: red;
+    width: 100%;
+    height:30px;
+    line-height:4px;
+    margin:0px;
+    padding-top: 10px;
+}
+.modal-dialog{
+    width:90%;
+}
+.Instruction_image{
+    display: inline-block;
+    width: 45%;
+}
+video{
+    background: url("game_console.png");
+    background-size : cover;
+    padding: 20px;
+    background-position: center;
+}
